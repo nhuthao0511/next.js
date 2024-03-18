@@ -1,0 +1,14 @@
+// .App {
+//     text-align: center;
+//   }
+
+// .test{
+//     color: red;
+// }
+
+$primary-color: #64ff00;
+ 
+:export {
+  primaryColor: $primary-color;
+}
+
